@@ -1,43 +1,72 @@
-# Resume of Lee Geonhee
+# 📄 Resume – 이건희 (Leegonehee)
 
-## 1. Profile
-- Name: Lee Geonhee (이건희)
-- Birth: 2002.02.06
-- Email: your_email@example.com
-- GitHub: [github.com/yourID](https://github.com/yourID)
-- Blog: [velog.io/@yourID](https://velog.io/@yourID)
-
----
-
-## 2. Education
-- Hallym University, Computer Science (2019 ~ 2025, expected)
-- Capstone Design Project: AI 기반 인테리어 추천 웹사이트 (은상 수상)
+## 👤 Profile  
+- **이름:** 이건희  
+- **생년월일:** 2002년 2월 6일  
+- **전화번호:** 010-9253-0842  
+- **이메일:** sjwiies2829@gmail.com  
+- **주소:** 강원도 춘천시 후석로 393번길 20, 1층  
 
 ---
 
-## 3. Qualification
-- 2020.02.06 pc 정비사 2급 필
-- 정보처리기사 (필기 합격, 실기 준비 중, 2025.11 예정)
-
-
----
-
-## 4. Tech Stack
-### Frontend
-- React, JavaScript (ES6+), HTML5, CSS3
-
-
-
-
-### Tools & Etc.
-- Git, GitHub
-- Figma (UI/UX Design)
-- Deployment: AWS (기초)
+## 🎓 Education  
+| 기간 | 학교명 | 전공 / 학과 | 비고 |
+|------|--------|-------------|------|
+| 2017.03 ~ 2020.02 | 성수여자고등학교 | - | 졸업 |
+| 2020.03 ~ 2023.01 | 한림성심대 | 전기정보과 | 졸업 |
+| 2023.03 ~ 2025.08 | 한림대학교 | 소프트웨어학부 | 졸업예정 |
 
 ---
 
-## 5. Projects
-### [Church Website Renewal](https://github.com/yourID/church-web)
-- 소규모 커뮤니티(교회) 웹사이트 리뉴얼
-- 기능: 주보 업로드, 표어/비전 섹션, 반응형 UI
-- Stack: React, Spring Boot, MySQL
+## 💼 Experience  
+| 기간 | 근무처 | 담당 업무 |
+|------|--------|-----------|
+| 2023.08.03 ~ 08.05 | 쿠팡 | 반품처리, 상품 재포장 |
+| 2022.11.19 (단기) | 점핑몬스터 | 화장실 및 키즈카페 내 청소 |
+| 2021.05.31 ~ 12.03 | 33떡볶이 | 서빙, 김밥 포장, 손님 응대, 배민 주문 받기 |
+| 2021.04.10 | sky컨벤션 | 잔반처리, 청소, 식기 정리 |
+
+---
+
+## 📜 Qualification  
+| 취득일 | 자격증 / 면허명 | 시행처 |
+|--------|----------------|---------|
+| 2020.02.06 | PC정비사 2급 필기 | ICQA |
+| 2020.11.06 | 제한무선통신사 | KCA |
+| 2020.12.19 | Microsoft Office Specialist (MOS) - Word, Excel, Access | YBM |
+| 2022.06.11 | 네트워크관리사 2급 | ICQA |
+
+---
+
+## 🛠️ Tech Stack  
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Backend:** Java, Spring Boot  
+- **Database:** MySQL, H2  
+- **Tools:** Git/GitHub, Figma, VSCode, IntelliJ  
+
+---
+
+## 📂 Projects  
+
+### 🎓 Academic / School Projects
+- **AI 인테리어 추천 웹사이트 (캡스톤, 2024)**  
+  - 사진 업로드 시 AI가 인테리어 스타일을 제안하는 웹 애플리케이션  
+  - 프론트엔드 개발 담당  
+  - 교내 대회 은상 수상  
+
+- **공포 방탈출 예약 시스템 (졸업작품, 2024 ~ 진행중)**  
+  - 예약/쿠폰/스탬프 기능 기획 및 프론트엔드 개발  
+  - 기존 기획(범죄자 하관 예측)에서 변경  
+
+- **강원도 홍보 웹사이트 (2023)**  
+  - 강원도 관광지 소개 사이트 제작  
+  - 확장 아이디어: 여행 리뷰 작성, 카페 추천 기능  
+
+- **선형대수 과제 (2023)**  
+  - 파이썬과 행렬 연산을 활용한 3D 좌표 변환 및 시각화 구현 (이동, 회전, 확대/축소, 전단 등)  
+
+- **교회 웹사이트 (2025, 진행중)**  
+  - 소규모 커뮤니티 사이트: 예배 안내, 주보 업로드, 공지사항, 지도 기능  
+  - 반응형 UI 적용  
+
+---
