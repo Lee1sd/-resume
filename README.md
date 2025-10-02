@@ -42,7 +42,7 @@
 - **Frontend:** HTML, CSS, JavaScript, React  
 - **Backend:** Java, Spring Boot  
 - **Database:** MySQL, H2  
-- **Tools:** Git/GitHub, Figma, VSCode, IntelliJ  
+- **Tools:** GitHub, Figma, VSCode
 
 ---
 
