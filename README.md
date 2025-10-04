@@ -94,4 +94,5 @@
 
 <img width="601" height="758" alt="스크린샷 2025-10-02 224003" src="https://github.com/user-attachments/assets/3f7d78a8-e340-42d5-bb1f-aa708f6f2e62" />
 
-<img width="587" height="672" alt="스크린샷 2025-10-02 223909" src="https://github.com/user-attachments/assets/1976ae50-4caa-4f66-9127-1d157bc40abc" />
+<img width="623" height="707" alt="image" src="https://github.com/user-attachments/assets/544a5a9a-e607-4d75-ac6b-2401d198adcd" />
+</br>*본 문서의 인명은 모두 가명 처리되었습니다.
